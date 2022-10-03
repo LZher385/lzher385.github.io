@@ -1,5 +1,5 @@
-title = "Lim Yu Zher's Portfolio"
-# baseURL = "https://.com/"
+title = "Lim Yu Zher's Online Resume"
+baseURL = "https://lzher385.github.io"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
