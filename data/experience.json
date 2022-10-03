@@ -1,0 +1,8 @@
+[
+  {
+      "role":"Full Stack Developer",
+      "company":"Only Technologies Private Limited",
+      "summary":"- Developed the MVP for our mobile application using React Native under a tight deadline of one month, while juggling with schoolwork.\n - Developed the Only Rewards mobile application with at least 15 screens from scratch using the Flutter framework. This was part of Only Technologies' product launch on 7 August 2022. \n   - [Google Play link](https://play.google.com/store/apps/details?id=com.only.saferide)\n   - [Apple App Store link](https://apps.apple.com/sg/app/only-rewards/id1622263310)\n - Designed and developed APIs using ExpressJS and AWS. AWS services used include S3, DynamoDB, AppSync, Cognito and Lambda.",
+      "range":"Aug 2021 - Aug 2022"
+  }
+]
