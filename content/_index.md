@@ -10,4 +10,4 @@ outputs:
 - json
 ---
 
-Passionate Software Engineer and Aspiring Entrepreneur
+Passionate Software Engineer and Aspiring Entrepreneur. I am keen to learn about the best practices in the industry.
