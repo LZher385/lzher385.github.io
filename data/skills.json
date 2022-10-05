@@ -32,13 +32,13 @@
       { "name": "Docker", "icon": "docker-plain" },
       { "name": "Terraform", "icon": "terraform-plain"},
       { "name": "Kubernetes", "icon": "kubernetes-plain" },
-      { "name": "AWS", "icon": "amazonwebservices-plain" },
+      { "name": "Amazon Web Services", "icon": "amazonwebservices-plain" },
       { "name": "Google Cloud", "icon": "googlecloud-plain" },
       { "name": "Heroku", "icon": "heroku-plain" }
     ]
   },
   {
-    "grouping": "Tools",
+    "grouping": "Tools and Others",
     "skills": ["git", "Postman", "Linux"]
   }
 ]

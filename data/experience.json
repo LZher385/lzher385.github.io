@@ -1,8 +1,14 @@
 [
   {
-      "role":"Full Stack Developer",
+      "role":"Full Stack Developer [[Testimonial](https://drive.google.com/file/d/1Pf7FlF_4CRFjIXuVbZxFG68woqOYLRKQ/view?usp=sharing)]",
       "company":"Only Technologies Private Limited",
-      "summary":"- Developed the MVP for our mobile application using React Native under a tight deadline of one month, while juggling with schoolwork.\n - Developed the Only Rewards mobile application with at least 15 screens from scratch using the Flutter framework. This was part of Only Technologies' product launch on 7 August 2022. \n   - [Google Play link](https://play.google.com/store/apps/details?id=com.only.saferide)\n   - [Apple App Store link](https://apps.apple.com/sg/app/only-rewards/id1622263310)\n - Designed and developed APIs using ExpressJS and AWS. AWS services used include S3, DynamoDB, AppSync, Cognito and Lambda.",
+      "summary":"- Developed the Only Rewards mobile application, consisting of  at least 15 screens and features from scratch using the Flutter framework. This was part of Only Technologies' product launch on 9 August 2022. \n   - [Google Play link](https://play.google.com/store/apps/details?id=com.only.saferide)\n   - [Apple App Store link](https://apps.apple.com/sg/app/only-rewards/id1622263310)\n - Designed and developed APIs using ExpressJS and AWS. AWS services used include S3, DynamoDB, AppSync, Cognito and Lambda\n - Developed the MVP for our mobile application using React Native under a tight deadline of one month. Frameworks used include AWS Amplify, AppSync, Lambda, S3 and DynamoDB. The MVP was showcased in NUS GRIP [(Graduate Research Innovation Programme)](https://nus.edu.sg/grip/), an incubator programme in which Only Technologies successfully graduated from.\n - Implemented infrastructure as code using Terraform to provision resources in AWS.\n - Involved in the ideation of features for the start-up's first product launch.",
       "range":"Aug 2021 - Aug 2022"
+  },
+  {
+    "role": "Software Developer Intern",
+    "company": "IQDynamics Private Limited",
+    "summary": "- Wrote SQL queries in Microsoft SQL Server and exported the results to Microsoft Excel as part of the company's HR management solution (HRMS).\n - Debugged webpages as part of the HRMS' transition from legacy browsers to modern ones.",
+    "range":"May 2021 - Aug 2021"
   }
 ]
