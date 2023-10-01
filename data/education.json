@@ -1,9 +1,14 @@
 [
   {
+    "school": "[Stanford University](https://www.stanford.edu/)",
+    "range": "Jan 2023 - May 2023",
+    "notes": "Took classes under the Management Science and Engineering (MS&E) department at Stanford"
+  },
+  {
     "school": "[National University of Singapore](https://www.nus.edu.sg/)",
     "degree": "Bachelor of Computing with Honours, Computer Science",
     "range": "Aug 2020 - May 2024",
-    "notes": "Relevant Modules:\n - CS2030S - Programming Methodology II (OOP/Java)\n - CS2040S - Data Structures and Algorithms\n - CS2105 - Intro to Computer Networks\n - CS2103T - Software Engineering\n - CS2100 - Computer Organisation \n - CS2102 - Database Systems (SQL)\n - CS2106 - Intro to Operating Systems\n - CS2107 - Intro to Information Security\n - CS3244 - Machine Learning\n - CS3235 - Computer Security\n - CS3230 - Design and Analysis of Algorithms \n - CS3219 - Software Engineering Principles"
+    "notes": "NUS Overseas College (NOC) Silicon Valley Batch 43\nRelevant Modules:\n - CS2030S - Programming Methodology II (OOP/Java)\n - CS2040S - Data Structures and Algorithms\n - CS2105 - Intro to Computer Networks\n - CS2103T - Software Engineering\n - CS2100 - Computer Organisation \n - CS2102 - Database Systems (SQL)\n - CS2106 - Intro to Operating Systems\n - CS2107 - Intro to Information Security\n - CS3244 - Machine Learning\n - CS3235 - Computer Security\n - CS3230 - Design and Analysis of Algorithms \n - CS3219 - Software Engineering Principles"
   },
   {
     "school": "[National Junior College](https://nationaljc.moe.edu.sg/)",
